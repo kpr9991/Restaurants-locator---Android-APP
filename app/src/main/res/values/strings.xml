@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zomato</string>
+    <string name="getLocation">GET LOCATION</string>
+    <string name="getRestaurants">GET RESTAURANTS HERE</string>
+    <string name="searchByNameButton">SEARCH BY NAME</string>
+    <string name="enterSearchRestaurant">Enter restaurant name</string>
+    <string name="search">SEARCH</string>
+</resources>
